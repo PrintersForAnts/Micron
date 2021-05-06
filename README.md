@@ -15,10 +15,7 @@ Design goals
 - Motion: MGN7H 150mm rails and carriages
 - Frame: something like 200mm 1515 (see below)
 - Bed: 120x120
-- Tophat?
 - Use as much V2.4 (scaled-down) as possible:
-- Idler design?
-- Printability?
 
 - Zruncho: Printability on a v0 should be a bonus but ideally not required. It just makes things more
 complicated if you have to split stuff up.
@@ -26,5 +23,4 @@ complicated if you have to split stuff up.
 Expected additional BOM costs (~100 only)
 - 2x additional 150mm rails and carriages
 - 3x extra motor drivers + a board to handle them
-- 3x endstop switches
-- 4x pulleys + belt
+- 12x pulleys (3 for each z drive) + 4 belts
