@@ -1,5 +1,7 @@
 Micro V2
-Design Prompt: Build a V2, using v0 Components :-)
+![picture](Images/1.png)
+
+Design Prompt: Build a V2, using v0 Components
 Why? Why not.
 Actual reasons:
 
