@@ -14,9 +14,10 @@ mounting
 ## Design goals
 - Use as much V0.1 stuff as possible:
 - Toolhead (extruder + hotend): V0.1 Mini-AB
-- XY Drive: F623ZZ bearings, GT2 belt, 16T pulleys, NEMA14 motors
+- XY Drive: F623 bearings, GT2 belt, 16T pulleys, NEMA14 motors
 - Motion: MGN7H 150mm rails for Z and Y with MGN9C 150mm for X 
 - Bed: 120x120
+- Z drives - geared down 3.75:1 using GT2 16t and gt2 60t for the belted Z to run the gantry 
 - Use as much V2.4 (scaled-down) as possible
 - utilize the [Euclid mag probe](https://github.com/nionio6915/Euclid_Probe) for QGL 
 
