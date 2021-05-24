@@ -1,6 +1,6 @@
 ## Micron2.4
 
-![picture](Images/1.png)
+![picture](Images/2.png)
 
 ## Design Prompt: Build a V2, using v0 Components
 Why? Why not.
