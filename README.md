@@ -14,17 +14,23 @@ mounting
 ## Design goals
 - Use as much V0.1 stuff as possible:
 - Toolhead (extruder + hotend): V0.1 Mini-AB
-- XY Drive: F623ZZ bearings, GT2 belt, 20t pulleys, NEMA14 motors
-- Motion: MGN7H 150mm rails and carriages
-- Frame: something like 200mm 1515 (see below)
+- XY Drive: F623 bearings, GT2 belt, 16T pulleys, NEMA14 motors
+- Motion: MGN7H 150mm rails for Z and Y with MGN9C 150mm for X 
 - Bed: 120x120
-- Use as much V2.4 (scaled-down) as possible:
+- Z drives - geared down 3.75:1 using GT2 16t and GT2 60t for the belted Z to run the gantry 
+- Use as much V2.4 (scaled-down) as possible
+- utilize the [Euclid mag probe](https://github.com/nionio6915/Euclid_Probe) for QGL 
 
-- Zruncho: Printability on a v0 should be a bonus but ideally not required. It just makes things more
-complicated if you have to split stuff up.
-- Exist quickly and be fun to build
 
-## Expected additional BOM costs (~100 only)
-- 2x additional 150mm rails and carriages
-- 3x extra motor drivers + a board to handle them
-- 12x pulleys (3 for each z drive) + 4 belts
+
+### Frame Extrusions
+Misumi Part #  |Qty | Notes
+ ----|----|----|
+HFS3-1515-270 |4 | Blind holes need to be drilled
+HFS3-1515-220 |10| Ends need to be tapped (M3)
+HFS3-1515-205 |2 |
+HFS3-1515-190 |1 |
+HFS3-1515-125 |1 |
+
+Official BOM coming soon
+
