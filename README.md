@@ -26,7 +26,7 @@ mounting
 ### Frame Extrusions
 Misumi Part #  |Qty | Notes
  ----|----|----|
-HFS3-1515-270 |4 | Blind holes need to be drilled
+HFS3-1515-300 |4 | Blind holes need to be drilled
 HFS3-1515-220 |10| Ends need to be tapped (M3)
 HFS3-1515-205 |2 |
 HFS3-1515-190 |1 |
