@@ -1,7 +1,7 @@
 ## Micron2.4
 
 ![picture](Images/3.png)
-
+[INCOMPLETE BOM](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU/edit#gid=0)
 ## Design Prompt: Build a V2, using v0 Components
 Why? Why not.
 Actual reasons:
@@ -32,5 +32,5 @@ HFS3-1515-205 |2 |
 HFS3-1515-190 |1 |
 HFS3-1515-125 |1 |
 
-Official BOM coming soon
+
 
