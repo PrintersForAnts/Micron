@@ -1,4 +1,4 @@
-## micro-v2 (name change pending)
+## miniv2 (name change pending)
 
 ![picture](Images/3.png)
 [INCOMPLETE BOM](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU/edit#gid=0)
