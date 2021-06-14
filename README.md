@@ -17,9 +17,9 @@ mounting
 - XY Drive: F623 bearings, GT2 belt, 16T pulleys, NEMA14 motors
 - Motion: MGN7H 150mm rails for Z and Y with MGN9C 150mm for X 
 - Bed: 120x120
-- Z drives - geared down 4:1 using GT2 16T and GT2 64T either form Powge or the printed version from the Voron Jetpack extruder for the belted Z to run the gantry 
+- Z drives - geared down 4:1 using GT2 16T and GT2 64T either from Powge or the printed version from the Voron Jetpack extruder for the belted Z to run the gantry 
 - Use as much V2.4 (scaled-down) as possible
-- utilize the [Euclid mag probe](https://github.com/nionio6915/Euclid_Probe) for QGL or a more DIY version of the a mag probe
+- utilize the [Klicky Probe](https://github.com/jlas1/Klicky-Probe) for QGL or a Pinda Probe mounted to the miniAfterburner 
 
 
 
