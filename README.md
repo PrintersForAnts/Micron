@@ -19,7 +19,7 @@ mounting
 - Bed: 120x120
 - Z drives - geared down 4:1 using GT2 16T and GT2 64T either from Powge or the printed version from the Voron Jetpack extruder for the belted Z to run the gantry 
 - Use as much V2.4 (scaled-down) as possible
-- utilize the [Klicky Probe](https://github.com/jlas1/Klicky-Probe) for QGL or a Pinda Probe mounted to the miniAfterburner 
+- utilize the [Klicky Probe](https://github.com/jlas1/Klicky-Probe) for QGL or annex engineering quickdraw, or a Pinda Probe mounted to the miniAfterburner 
 
 
 
