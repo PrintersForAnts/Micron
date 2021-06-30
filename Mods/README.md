@@ -18,7 +18,7 @@ like so:
 
 | Creator | Mod title | Description |
 | --- | --- | --- |
-|BlueSandBox|[Nema_17_Z_Motor_Mount](./BlueSandBox/Nema_17_Z_Motor_Mounts) | Replaces the Nema14s with Nema17s
+|BlueSandBox|[Nema_17_Z_Motor_Mount](https://github.com/hartk1213/Micron/tree/main/Mods/BlueSandBox/Nema_17_Z_Motor_Mount) | Replaces the Nema14s with Nema17s
 
 
 ---
