@@ -12,7 +12,6 @@ mounting
 - Cheap way to see what a V2 is like from a software side
 
 ## Design goals
-- Use as much V0.1 stuff as possible:
 - Toolhead (extruder + hotend): V0.1 Mini-AB
 - XY Drive: F623 bearings, GT2 belt, 16T pulleys, NEMA14 motors
 - Motion: MGN7H 150mm rails for Z and Y with MGN9C 150mm for X 
