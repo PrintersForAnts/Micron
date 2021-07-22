@@ -19,6 +19,7 @@ like so:
 | Creator | Mod title | Description |
 | --- | --- | --- |
 |BlueSandBox|[Nema_17_Z_Motor_Mount](https://github.com/hartk1213/Micron/tree/main/Mods/BlueSandBox/Nema_17_Z_Motor_Mount) | Replaces the Nema14s with Nema17s
+|TheWarolf|[Neopixel_Mount](https://github.com/hartk1213/Micron/tree/main/Mods/TheWarolf/UglyNeopixelMount) | Simple Neopixel strip mount for 1515
 
 
 ---
