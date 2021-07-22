@@ -31,5 +31,22 @@ HFS3-1515-205 |2 |
 HFS3-1515-190 |1 |
 HFS3-1515-125 |1 |
 
+Thanks to the following people on the [Doomcube Discord](https://discord.gg/EAANfEk25f) who have helped get this printer finished 
+
+@TheWarolf#1247
+
+@L.e.o.p.a.r.d#0990
+
+@deepfriedheroin#5006
+
+@JosAr#0517
+
+@sentein#3903
+
+@madcat#7838
+
+@Kyrios#5486
+
+
 
 
