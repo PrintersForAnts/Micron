@@ -48,6 +48,7 @@ Thanks to the following people on the [Doomcube Discord](https://discord.gg/EAAN
 
 @Kyrios#5486
 
+@faithblinded#1491
 
 if you wanna help support the project you can [here](https://www.patreon.com/user?u=27661824&fan_landing=true)
 
