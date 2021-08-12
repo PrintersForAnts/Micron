@@ -1,7 +1,8 @@
 ## Micron
 
-![picture](Images/3.png)
-[INCOMPLETE BOM](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU/edit#gid=0)
+![picture](Images/MicronRendering.png)
+
+[BOM](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU/edit#gid=0)
 ## Design Prompt: Build a V2, using v0 Components
 Why? Why not.
 Actual reasons:
@@ -47,6 +48,9 @@ Thanks to the following people on the [Doomcube Discord](https://discord.gg/EAAN
 
 @Kyrios#5486
 
+@faithblinded#1491
 
+@zruncho#1790
 
+if you wanna help support the project you can [here](https://www.patreon.com/user?u=27661824&fan_landing=true)
 
