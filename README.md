@@ -2,6 +2,8 @@
 
 ![picture](Images/MicronRendering.png)
 
+[![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
+
 [BOM](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU/edit#gid=0)
 ## Design Prompt: Build a V2, using v0 Components
 Why? Why not.
@@ -32,7 +34,7 @@ HFS3-1515-205 |2 |
 HFS3-1515-190 |1 |
 HFS3-1515-125 |1 |
 
-Thanks to the following people on the [Doomcube Discord](https://discord.gg/EAANfEk25f) who have helped get this printer finished 
+Thanks to the following people on discord who have helped get this printer finished 
 
 @TheWarolf#1247
 
