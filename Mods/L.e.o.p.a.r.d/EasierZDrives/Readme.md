@@ -14,3 +14,6 @@ It:
 "Z-new-z" variant allows the machine to function while partially disassembled by cutting the z-drive in a 'z'-like pattern. This would be the one I'd recommend for functionality, though the "new-z" version may be preferred by some for aesthetics.
 
 So.. yeay, and why not?!
+
+Printing:
+  You need to print two of each, and also two mirrored. You can mirror these in your favorite slicer fairly easily!
