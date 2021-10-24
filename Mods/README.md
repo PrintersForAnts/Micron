@@ -22,5 +22,6 @@ like so:
 |TheWarolf|[Neopixel_Mount](https://github.com/hartk1213/Micron/tree/main/Mods/TheWarolf/UglyNeopixelMount) | Simple Neopixel strip mount for 1515 extrusions
 ||[Anti_Rotation_Corners](https://github.com/hartk1213/Micron/tree/main/Mods/TheWarolf/AntiRotationCorners) | Modified bed support extrusion corner pieces 
 |Finn2708|[Dual_MGN7_Toolhead_Carriage](https://github.com/hartk1213/Micron/tree/main/Mods/Finn2708/Dual_MGN7_Toolhead_Carriage) | Dual MGN7H Toolhead Carriage 
+||[Zerofilter_mounting_bracket](https://github.com/hartk1213/Micron/tree/main/Mods/Finn2708/Zerofilter_mounting_bracket) | Mounting bracket for Zerofilter 
 
 ---
