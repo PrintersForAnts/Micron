@@ -5,25 +5,6 @@
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
 [BOM](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU/edit#gid=0)
-## Design Prompt: Build a V2, using v0 Components
-Why? Why not.
-Actual reasons:
-
-- Fun way to screw around and make a V0 more interesting
-- Better Z and bed leveling: self-leveling, no leadscrews to wobble or source, and avoids cantilevered bed
-mounting
-- Cheap way to see what a V2 is like from a software side
-
-## Design goals
-- Toolhead (extruder + hotend): V0.1 Mini-AB
-- XY Drive: F623 bearings, GT2 belt, 16T pulleys, NEMA14 motors
-- Motion: MGN7H 150mm rails for Z and Y with MGN9C 150mm for X 
-- Bed: 120x120
-- Z drives - geared down 4:1 using GT2 16T and GT2 64T either from Powge or the printed version from the Voron Jetpack extruder for the belted Z to run the gantry 
-- Use as much V2.4 (scaled-down) as possible
-- utilize the [Klicky Probe](https://github.com/jlas1/Klicky-Probe) for QGL or annex engineering quickdraw, or a Pinda Probe mounted to the miniAfterburner 
-
-
 
 ### Frame Extrusions
 Misumi Part #  |Qty | Notes
