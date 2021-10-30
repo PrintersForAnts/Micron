@@ -3,6 +3,8 @@ Description
 
 This mod is based upon Ramas V2 Mod [AB_Plug_Microfit](https://github.com/Ramalama2/Voron-2-Mods/tree/main/AB_Plug_Microfit). It provides a slot to mount one Molex Micro-Fit 3.0 2x2 Plug to easily mount motors without built-in connectors.
 
+The mod comes with modelled-in support (grey), that should easily break away.
+
 ![CAD](Images/CAD_image.PNG)
 
 BOM
