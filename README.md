@@ -41,8 +41,8 @@ HFS3-1515-180 |1 |
     Linear Rails (120mm³ build volume)
     </summary>
 
-Part  | Qty | Notes
------ | :---: |
+Part  | Qty | Length
+-----|----|-----|
 MGN7H | 6 | 150mm
 MGN9C | 1 | 150mm
 </details>
@@ -52,8 +52,8 @@ MGN9C | 1 | 150mm
     Linear Rails (160mm³ build volume)
     </summary>
 
-Part  | Qty | Notes
------ | :---: |
+Part  | Qty | Length
+-----|-----|-----|
 MGN7H | 6 | 220mm
 MGN9C | 1 | 220mm
 </details>
