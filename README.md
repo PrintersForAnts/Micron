@@ -70,5 +70,6 @@ Thanks to the following people on Discord who have helped get this printer finis
 - @faithblinded#1491
 - @zruncho#1790
 - @Finn#2449
+- @clee@1337
 
 [You can support the Micron project on Patreon](https://www.patreon.com/user?u=27661824&fan_landing=true).
