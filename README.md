@@ -4,12 +4,14 @@
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
+
 [BOM](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU)
 
 <details>
     <summary>
     Frame Extrusions (120mm³ build volume)
     </summary>
+
 
 Misumi Part #  |Qty | Notes
  ----|----|----|
