@@ -1,11 +1,10 @@
 ## Micron
 
-![picture](Images/MicronRendering.png)
+![Rendering of a Micron build](Images/MicronRendering.png)
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
-
-[BOM](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU)
+[The official Micron BOM is here.](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU)
 
 <details>
     <summary>
@@ -70,6 +69,6 @@ Thanks to the following people on Discord who have helped get this printer finis
 - @faithblinded#1491
 - @zruncho#1790
 - @Finn#2449
-- @clee@1337
+- @clee#1337
 
 [You can support the Micron project on Patreon](https://www.patreon.com/user?u=27661824&fan_landing=true).
