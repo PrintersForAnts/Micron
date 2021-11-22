@@ -24,5 +24,6 @@ like so:
 |Finn2708|[Dual_MGN7_Toolhead_Carriage](https://github.com/hartk1213/Micron/tree/main/Mods/Finn2708/Dual_MGN7_Toolhead_Carriage) | Dual MGN7H Toolhead Carriage 
 ||[Zerofilter_mounting_bracket](https://github.com/hartk1213/Micron/tree/main/Mods/Finn2708/Zerofilter_mounting_bracket) | Mounting bracket for Zerofilter 
 ||[AB_Motor_Microfit_Connector](https://github.com/hartk1213/Micron/tree/main/Mods/Finn2708/AB_Motor_Microfit_Connector) | AB Motor Microfit Connector
+|Clee|[Micron-160](https://github.com/hartk1213/Micron/tree/main/Mods/Clee) | Micron-160
 
 ---
