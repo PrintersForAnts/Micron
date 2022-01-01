@@ -1,0 +1,1 @@
+Insert a 5mmx50mm shaft in the middle. This design allow you fold up the spool holder to save space.
