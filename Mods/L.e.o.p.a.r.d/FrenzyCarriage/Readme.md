@@ -11,10 +11,10 @@ Why would you use this mod?
 What do you have to do to use this mod?
 For Micron:
 - Adjust Z rail heights
-  - (Recommended) Move your z-rails up 13.3mm to accomodate the new gantry-to-nozzle distance. If you do this, you'll lose no 'z' travel. Distance of bottom of rails to extrusions should be: 34.3mm (standard Micron is 21, 21+13.3 == 34.3). You can print the 'micron_frenzy_key.stl' and use the 'z' slot to make this easy!
+  - (Recommended) Move your z-rails up to accomodate the new gantry-to-nozzle distance. If you do this, you'll lose no 'z' travel. Use the included key to get the distance right.
    or
-  - Change config to reduce max-z travel by 13.3m
-- Print the carriage and the motor-plate pieces.
+  - Change config to reduce max-z travel by 13.3m for p1, or 12.5 for p2.
+- Print the carriage and the motor-plate pieces. Ensure the "pX" matches, e.g. p1 carriage, p1 motor-plate, or p2 carriage, p2 motor-plate.
 - Insert 4 heatsets into the carriage (two on the front, two on the legs).
 - Insert 2 heatsets into the motor-plate in the standard locations for a V0.1 motor-plate.
 - (optional) Screw motor plate into carriage using 2.5mm self-tapping screws (as you would for a V0) using the *top* screw holes (the bottom screw-holes are for use on a V0.1 mount).
