@@ -1,6 +1,6 @@
 ## Micron
 
-![Rendering of a Micron build](Images/MicronRendering3.png)
+![Rendering of a Micron build](Images/micron-hero.png)
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
