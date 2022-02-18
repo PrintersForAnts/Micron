@@ -6,4 +6,7 @@ Bed extrusions must be in V2 style orientation.
 Common brush cut down to size.  Nylon should be ground to approx 6mm thick and ~36mm wide
 ![Brush](brush_mount1.jpg)
 
-Macro is a modified version of the Decontaminator macro.
+Macro is a modified version of the Decontaminator macro. Caution: please test and verify values on your own printer.
+
+Potential issues:
+The toolhead can move across the klicky probe when moving to and from the brush which could cause issues depending on your brush/klicky mount location.
