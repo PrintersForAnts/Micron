@@ -29,5 +29,5 @@ Wires have been color-coded, so you can match what end goes where!
 |  Octopus Detail Fan| <img src="./wiring_pics/micron_octopus_fan_detail.jpg" width="180">
 |  Pancake | <img src="./wiring_pics/pancake_from_rear.jpg" width="180">
 |  Part Cooling Fan A| <img src="./wiring_pics/pancake_from_right.jpg" width="180">
-|  Part Cooling Fan B| <img src="./wiring_pics/pancake_from_right.jpg" width="180">
+|  Part Cooling Fan B| <img src="./wiring_pics/pancake_from_left.jpg" width="180">
 |  Pi Power | <img src="./wiring_pics/micron_pi_power.jpg" width="180">
