@@ -22,6 +22,6 @@ Printing:
 ---
 | Orientation | Image |
 | ---  | ---   |
-|  From "inside" | <img  src="./Images/easier-z-inside-transparent" width="180" > |
-|  From "outside" | <img  src="./Images/easier-z-outside-transparent" width="180" > |
-|  Top piece only | <img  src="./Images/easier-z-outside-toponly" width="180" > |
+|  From "inside" | <img  src="./Images/easier-z-inside-transparent.png" width="180" > |
+|  From "outside" | <img  src="./Images/easier-z-outside-transparent.png" width="180" > |
+|  Top piece only | <img  src="./Images/easier-z-outside-toponly.png" width="180" > |
