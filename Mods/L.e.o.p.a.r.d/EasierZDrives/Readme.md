@@ -17,3 +17,11 @@ So.. yeay, and why not?!
 
 Printing:
   You need to print two of each, and also two mirrored. You can mirror these in your favorite slicer fairly easily!
+
+
+---
+| Orientation | Image |
+| ---  | ---   |
+|  From "inside" | <img  src="./Images/easier-z-inside-transparent.png" width="180" > |
+|  From "outside" | <img  src="./Images/easier-z-outside-transparent.png" width="180" > |
+|  Top piece only | <img  src="./Images/easier-z-outside-toponly.png" width="180" > |
