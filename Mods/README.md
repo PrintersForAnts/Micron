@@ -31,6 +31,7 @@ like so:
 |L.e.o.p.a.r.d|[Clips](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/Clips) | This mod contains various clips for mounting things onto 1515 and 2020 extrusion.
 ||[EasierZDrives](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/EasierZDrives) |  Alternate Z Drives
 ||[FrenzyCarriage](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/FrenzyCarriage) | Alternate Carriage for Micron and other 1515 MGN9C machines.
+||[Firmware](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/Firmware) | Leopard's labeled wiring photos/examples, and mainsail config (with auto-z-calibration and sensorless X/Y)
 ||[HeatsetZTensioner](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/HeatsetZTensioner) | Alternate Z Idler that can utilize a heatset
 ||[KeyedSkirts](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/KeyedSkirts) | Keyed Skirts
 ||[KineKlicky](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/KineKlicky) | Kinetic-mount Klicky, useful if you're having some issues with your klicky
