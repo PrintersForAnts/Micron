@@ -7,3 +7,4 @@
 ![alt text](https://i.imgur.com/gMYDc8C.png)
 
 <h3> Required: 3 long, 3 short, 1 for spool & 1 for bowden 
+<h3> Also requires a new set of longer clips for the panels you intend to change </h3>
