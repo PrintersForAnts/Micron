@@ -1,10 +1,16 @@
 ## Micron
 
-![Rendering of a Micron build](Images/MicronRendering.png)
+![Rendering of a Micron build](Images/micron-hero.png)
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
 [The official Micron BOM is here.](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU)
+
+If you want to purchase full kits there are 2 available 
+
+<a href="https://deepfriedhero.in/products/micron-kit?aff=3" rel="nofollow">DFH Kit (Affiliate Link)</a>
+
+<a href="https://s.click.aliexpress.com/e/_AXb37b" rel="nofollow">Funssor Kit (Affiliate Link)</a>
 
 <details>
     <summary>
@@ -49,6 +55,7 @@ Thanks to the following people on Discord who have helped get this printer finis
 - @zruncho#1790
 - @Finn#2449
 - @clee#1337
+- @slidr#4412
 
 [You can support the Micron project on Patreon](https://www.patreon.com/user?u=27661824&fan_landing=true).
 
