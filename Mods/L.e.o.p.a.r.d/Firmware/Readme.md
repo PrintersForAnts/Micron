@@ -6,7 +6,7 @@ This directory contains my Micron's configuration.
 It is UNSAFE to use this directly without modifying for your printer.
 You MUST modify this config for YOUR printer's specifics before use, otherwise you could start your machine on fire, destroy it or things attached to it.
 
-This is being provided expressely without any warranty of correctness, utility, or safety.
+This is being provided expressly without any warranty of correctness, utility, or safety.
 
 USE AT YOUR OWN RISK.
 
