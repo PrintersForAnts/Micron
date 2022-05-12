@@ -1,0 +1,1 @@
+Mount to ziptie B motor tail too.
