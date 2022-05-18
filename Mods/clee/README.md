@@ -24,3 +24,14 @@ Part  | Qty | Length
 MGN7H | 6 | 220mm
 MGN9C | 1 | 220mm
 </details>
+
+<details>
+    <summary>
+    Clear panels (160mm³ build volume, acrylic/polycarbonate)
+    </summary>
+
+Placement | Qty | Size
+----------|-----|------|
+front/side | 3 | 292×332mm
+top | 1 | 292×292mm
+</details>
