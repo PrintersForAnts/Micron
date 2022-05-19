@@ -3,7 +3,7 @@
 <br>
 ![Hinge Open](./IMG/2.PNG)
 <br>
-Relocates the pi so the bottom doesn't face the bottom panel (shorting risk), and GPIO is more accessible. Also moves the PSU lower to make the USB connectors of the Pi more accessible (still a tight fit but it can work with some shaving of the plastic on the USB cable if needed).
+Relocates the pi so the bottom doesn't face the bottom panel (shorting risk), and GPIO is more accessible. Also moves the PSU lower to make the USB connectors of the Pi more accessible (still a tight fit but it can work with some shaving of the plastic on the USB cable if needed). Alternatively, Pi 3s USB connectors are on the other side of the PCB, so 2 of the USBs should be easily accessible.
 <br>
 Also adds an extra latch for extra security.
 <br>
