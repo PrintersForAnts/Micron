@@ -41,4 +41,9 @@ like so:
 |Reiten966|[Micron Handles](https://github.com/printersforants/Micron/tree/main/Mods/Reiten966/Micron_Handles) | Handles for Micron
 |TheWarolf|[Neopixel_Mount](https://github.com/printersforants/Micron/tree/main/Mods/TheWarolf/UglyNeopixelMount) | Simple Neopixel strip mount for 1515 extrusions
 ||[Anti_Rotation_Corners](https://github.com/printersforants/Micron/tree/main/Mods/TheWarolf/AntiRotationCorners) | Modified bed support extrusion corner pieces 
+| xbst_ | [2-Piece Skirt Display Mount](./xbst_/2_Piece_Skirt_Display_Mount) | A simple insert for the middle hex of the front skirts to mount a display using the stock mount. |
+|| [Drag Chain Chamber Thermistor](./xbst_/Dragchain_Thermistor) | A thermistor mount on the drag chain guide (for chamber temperature monitoring). |
+|| [LED Mount](./xbst_/LED_Mount) | Top LED mount for PCB LED strips with M3 holes. |
+|| [Vertical Pi](./xbst_/Vertical_Pi) | Relocates the Pi, eliminating the risk of the bottom panel shorting the pins, and makes accessing GPIO easier. Also adds a second latch for the hinge. |
+|| [Simpler Electronics](./xbst_/Simpler_Electronics) | No-hinge electronics mounts for the UHP PSU, BTT Octopus & Pi. Pi Mounts to a skirt, UHP and octopus are stacked. |
 ---
