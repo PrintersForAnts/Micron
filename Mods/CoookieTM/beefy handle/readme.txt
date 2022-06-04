@@ -1,0 +1,1 @@
+Not designed for use with panels (enclosed printer).
