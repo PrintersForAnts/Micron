@@ -1,5 +1,5 @@
-<h1> This mod allows you to use the Voron 2.4 igus chain for Z on the micron. </h1>
-\n 
-![alt text](https://i.imgur.com/Yoa8yqI.jpg)
-\n
-<h1> This mod uses normal M3 heatsets & M3 8mm screws. </h1>
+
+<h1> Hardware for all my voron projects utilize standard m3 heatset inserts & various lengths of m3 screws </h1>
+
+Feel free to mod / change the parts as you like :-)
+
