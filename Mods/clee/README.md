@@ -9,8 +9,8 @@ Misumi Part #  |Qty | Notes
  ----|----|----|
 HFS3-1515-350 |4 | Blind holes need to be drilled
 HFS3-1515-280 |10| Ends need to be tapped (M3)
-HFS3-1515-263 |2 |
-HFS3-1515-248 |1 |
+HFS3-1515-265 |2 |
+HFS3-1515-250 |1 |
 HFS3-1515-180 |1 |
 </details>
 
