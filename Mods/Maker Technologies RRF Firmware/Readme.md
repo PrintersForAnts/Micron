@@ -13,5 +13,3 @@ More information on how to get RRF on your board (and compatible boards themselv
 I am still developing a few things for this... feel free to reach out via discord for comments and contributions.
 
 -Dom Dell Computer#0675
-
-[Micron FW.zip](https://github.com/ddellant/Micron/files/9416958/Micron.FW.zip)
