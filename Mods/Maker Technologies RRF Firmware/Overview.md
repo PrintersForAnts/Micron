@@ -11,3 +11,5 @@ My Micron (V2.4085), was built in between models, so there are a few things that
 I am still developing a few things for this... feel free to reach out via discord for comments and contributions.
 
 -Dom Dell Computer#0675
+
+[Micron FW.zip](https://github.com/ddellant/Micron/files/9416958/Micron.FW.zip)
