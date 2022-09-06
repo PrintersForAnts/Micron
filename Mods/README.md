@@ -46,4 +46,5 @@ like so:
 || [LED Mount](./xbst_/LED_Mount) | Top LED mount for PCB LED strips with M3 holes. |
 || [Vertical Pi](./xbst_/Vertical_Pi) | Relocates the Pi, eliminating the risk of the bottom panel shorting the pins, and makes accessing GPIO easier. Also adds a second latch for the hinge. |
 || [Simpler Electronics](./xbst_/Simpler_Electronics) | No-hinge electronics mounts for the UHP PSU, BTT Octopus & Pi. Pi Mounts to a skirt, UHP and octopus are stacked. |
+|Maker Technologies|[RRF Config](https://github.com/printersforants/Micron/tree/main/Mods/Maker%20Technologies/RRF%20Firmware) | Rerprap Firmware Config for use with Duet Web Control
 ---
