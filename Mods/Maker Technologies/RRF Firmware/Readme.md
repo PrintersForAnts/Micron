@@ -4,7 +4,7 @@ I used the AC heated bed mod, which is why the bed heater pin looks a bit weird.
 
 Pay attention to the order of the motors in config.g! I skipped over port 04.
 
-I have also defined macros for start and end gcode, which can be called up using M98 P"/macros/start.g" 98 P"/macros/end.g"
+I have also defined macros for start and end gcode, which can be called up using M98 P"/macros/start.g" and M98 P"/macros/end.g" respectivly. 
 
 My Micron (V2.4085), was built in between models, so there are a few things that are probabably different for you. It is a good idea to go through both the config and macros to make sure everything macthes up.
 
