@@ -47,4 +47,6 @@ like so:
 || [Vertical Pi](./xbst_/Vertical_Pi) | Relocates the Pi, eliminating the risk of the bottom panel shorting the pins, and makes accessing GPIO easier. Also adds a second latch for the hinge. |
 || [Simpler Electronics](./xbst_/Simpler_Electronics) | No-hinge electronics mounts for the UHP PSU, BTT Octopus & Pi. Pi Mounts to a skirt, UHP and octopus are stacked. |
 |Maker Technologies|[RRF Config](https://github.com/printersforants/Micron/tree/main/Mods/Maker%20Technologies/RRF%20Firmware) | Rerprap Firmware Config for use with Duet Web Control
+|gfunnymoney|[MicronPlusDinRailMount](https://github.com/PrintersForAnts/Micron/tree/main/Mods/gfunnymoney/MicronPlusDinRailMount) | Micron+ DIN rail mount
+||[MicronSideSkirtKeystonePort](https://github.com/PrintersForAnts/Micron/tree/main/Mods/gfunnymoney/MicronSideSkirtKeystonePort) | Keystone side skirt Micron 120.
 ---
