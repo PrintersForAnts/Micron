@@ -12,12 +12,13 @@ If you want to purchase full kits there are 2 available
 
 <a href="https://s.click.aliexpress.com/e/_AXb37b" rel="nofollow">Funssor Kit (Affiliate Link)</a>
 
-<details>
-    <summary>
-    Frame Extrusions
+
+<details> 
+   <summary>
+    120x120 build
     </summary>
 
-
+## Frame Extrusions
 Misumi Part #  |Qty | Notes
  ----|----|----|
 HFS3-1515-300 |4 | Blind holes need to be drilled
@@ -25,14 +26,8 @@ HFS3-1515-220 |10| Ends need to be tapped (M3)
 HFS3-1515-205 |2 |
 HFS3-1515-190 |1 |
 HFS3-1515-125 |1 |
-</details>
 
-
-<details>
-    <summary>
-    Linear Rails
-    </summary>
-
+## Linear Rails
 Part  | Qty | Length
 -----|----|-----|
 MGN7H | 6 | 150mm
@@ -40,6 +35,26 @@ MGN9C | 1 | 150mm
 </details>
 
 
+<details>
+    <summary>
+    180x180 build
+    </summary>
+    
+## Frame Extrusions
+Misumi Part #  |Qty | Notes
+ ----|----|----|
+HFS3-1515-350 |4 | Blind holes need to be drilled
+HFS3-1515-280 |10| Ends need to be tapped (M3)
+HFS3-1515-265 |2 |
+HFS3-1515-250 |1 |
+HFS3-1515-180 |1 |
+
+## Linear Rails
+Part  | Qty | Length
+-----|-----|-----|
+MGN7H | 6 | 220mm
+MGN9C | 1 | 220mm
+</details>
 
 
 Thanks to the following people on Discord who have helped get this printer finished:
