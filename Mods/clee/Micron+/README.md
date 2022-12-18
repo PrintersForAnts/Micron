@@ -1,3 +1,5 @@
+## MICRON + has now been moved to the main micron repo no longer a mod ##
+
 ![Rendering of a Micron+ build](Micron+.png)
 
 <details>
