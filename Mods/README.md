@@ -49,4 +49,12 @@ like so:
 |Maker Technologies|[RRF Config](https://github.com/printersforants/Micron/tree/main/Mods/Maker%20Technologies/RRF%20Firmware) | Rerprap Firmware Config for use with Duet Web Control
 |gfunnymoney|[MicronPlusDinRailMount](https://github.com/PrintersForAnts/Micron/tree/main/Mods/gfunnymoney/MicronPlusDinRailMount) | Micron+ DIN rail mount
 ||[MicronSideSkirtKeystonePort](https://github.com/PrintersForAnts/Micron/tree/main/Mods/gfunnymoney/MicronSideSkirtKeystonePort) | Keystone side skirt Micron 120.
+|CoookieTM|[OwO Chef Bolt](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/OwO%20chef%20bolt) | Easier to print Z endstop housing
+||[PIP Inner Access Z Chain](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/PIP%20inner%20access%20z%20chain) | Print in Place Z Chain
+||[Aesthetic No-Panel Clips](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/aesthetic%20panel%20clips) | Aesthetic clips for use with NO panels
+||[B Motor Ziptie Mount](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/b%20motor%20tail%20mount) | Add-on to provide a ziptie mounting point
+||[Beefed Up Side Mount Handle](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/beefy%20handle) | Handle that is NOT compatible with panels
+||[Z Motor Spinner Flags](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/fixed%20spinner) | Rock how gangster your micron is
+||[Larger Z Belt Covers](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/larger%20z%20belt%20covers) | Covers gaps in the bottom panel
+||[Spool Mount with Rollers](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/rolling%20spool%20mount) | Reduces friction for spools
 ---
