@@ -8,9 +8,9 @@
 
 If you want to purchase full kits there are 2 available 
 
-<a href="https://deepfriedhero.in/products/micron-kit?aff=3" rel="nofollow">DFH Kit (Affiliate Link)</a>
 
-<a href="https://s.click.aliexpress.com/e/_AXb37b" rel="nofollow">Funssor Kit (Affiliate Link)</a>
+
+<a href="https://s.click.aliexpress.com/e/_DdmhiFF" rel="nofollow">Funssor Kit (Affiliate Link)</a>
 
 
 <details> 
