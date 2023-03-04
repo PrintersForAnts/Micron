@@ -10,7 +10,10 @@ If you want to purchase full kits there are 2 available
 
 
 
-<a href="https://s.click.aliexpress.com/e/_DdmhiFF" rel="nofollow">Funssor Kit (Affiliate Link)</a>
+<a href="https://s.click.aliexpress.com/e/_DdmhiFF" rel="nofollow">Funssor Micron (120x120) Kit (Affiliate Link)</a>
+
+<a href="https://s.click.aliexpress.com/e/_Dd6tmYz" rel="nofollow">Funssor Micron+ (180x180) Kit (Affiliate Link)</a>
+
 
 
 <details> 
