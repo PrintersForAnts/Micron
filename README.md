@@ -34,7 +34,7 @@ HFS3-1515-125 |1 |
 Part  | Qty | Length
 -----|----|-----|
 MGN7H | 6 | 150mm
-MGN9C | 1 | 150mm
+MGN9C OR MGN9H | 1 | 150mm
 </details>
 
 
@@ -56,10 +56,13 @@ HFS3-1515-180 |1 |
 Part  | Qty | Length
 -----|-----|-----|
 MGN7H | 6 | 220mm
-MGN9C | 1 | 220mm
+MGN9C OR MGN9H | 1 | 220mm 
 </details>
 
+## No Drop Nuts
+There are 2 versions of this mod, 1 from [Zruncho](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/zruncho/V0_No_Drop_Nuts) and the other from a user named [Zen3D](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Zen3D/V0_1515_T-nut/). Both of them have their uses. I prefer to use the Zen3D kind just for the fact that the screw can go all the way through the printed part. Zrunchos do have a much nicer fitment into the extrusions but they also dont allow the screw to go all the way through.
 
+## Thank you
 Thanks to the following people on Discord who have helped get this printer finished:
 
 - @TheWarolf#1247
@@ -75,6 +78,8 @@ Thanks to the following people on Discord who have helped get this printer finis
 - @clee#1337
 - @slidr#4412
 - @gfunnymoney#3748
+- Jason from LDO
+- Voron Dev Team
 
 [You can support the Micron project on Patreon](https://www.patreon.com/user?u=27661824&fan_landing=true).
 
