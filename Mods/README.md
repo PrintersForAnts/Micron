@@ -57,4 +57,5 @@ like so:
 ||[Z Motor Spinner Flags](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/fixed%20spinner) | Rock how gangster your micron is
 ||[Larger Z Belt Covers](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/larger%20z%20belt%20covers) | Covers gaps in the bottom panel
 ||[Spool Mount with Rollers](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/rolling%20spool%20mount) | Reduces friction for spools
+|risqy|[Micron+ 4010 Bed Fans](https://github.com/printersforants/Micron/tree/main/Mods/risqy/Micron-Plus-Bed-Fans) | Micron+ Bed Fan Mount for 2x 4010 Blower
 ---
