@@ -58,4 +58,5 @@ like so:
 ||[Larger Z Belt Covers](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/larger%20z%20belt%20covers) | Covers gaps in the bottom panel
 ||[Spool Mount with Rollers](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/rolling%20spool%20mount) | Reduces friction for spools
 |risqy|[Micron+ 4010 Bed Fans](https://github.com/printersforants/Micron/tree/main/Mods/risqy/Micron-Plus-Bed-Fans) | Micron+ Bed Fan Mount for 2x 4010 Blower
+|Shix|[MicronPlus mini12864 front skirt Mount](https://github.com/PrintersForAnts/Micron/tree/main/Mods/Shix/MicronPlus%20mini12864%20front%20skirt%20mount) | Mounting Options for the mini12864 for the front skirt of the Micron+
 ---
