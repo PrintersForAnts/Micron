@@ -10,7 +10,7 @@ If you want to purchase full kits there are 3 available
 
 <a href="https://www.formbot3d.com/products/presale-voron-micron-180mm-high-quality-corexy-3d-printer-kit?DIST=Rk9OHl4%3D" rel="nofollow">Formbot Micron+ (180x180) Kit (Affiliate Link)</a>
 
-<a href="https://s.click.aliexpress.com/e/_DdmhiFF" rel="nofollow">Funssor Micron (120x120) Kit (Affiliate Link)</a>
+<a href="https://s.click.aliexpress.com/e/_DBeQGFb" rel="nofollow">Funssor Micron (120x120) Kit (Affiliate Link)</a>
 
 <a href="https://s.click.aliexpress.com/e/_Dd6tmYz" rel="nofollow">Funssor Micron+ (180x180) Kit (Affiliate Link)</a>
 
