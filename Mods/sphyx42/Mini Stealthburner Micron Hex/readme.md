@@ -11,3 +11,5 @@ In your slicer of choice, you will need to process by object, select the
 hex objects (at the moment there are 7 hex objects) and change their
 color to your filament color of choice. 
 Slice and print!! 
+
+WIP: A face with no hex outline around the Micron Logo.
