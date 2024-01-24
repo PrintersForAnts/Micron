@@ -1,6 +1,6 @@
 **NO LONGER MAINTAINED**
 
-_Though this firmware will be a good place to start with, there may be config changes in RRF that may require modification to the config. I have sold my Micron so I will not be working on this anymore._
+_Though this firmware will be a good place to start with, there may be config changes in RRF due to later firmware updates. I have sold my Micron so I will not be working on this anymore._
 
 Use this config as a base to develop RRF for your machine. This was made using pRINTERnOODLE's config (https://github.com/pRINTERnOODLE/RRF-klicky-probe-voron-2.4) and has integrated z calibration (https://github.com/pRINTERnOODLE/Auto-Z-calibration-for-RRF-3.3-or-later-and-Klicky-Probe). Big thank you to them for doing most of the legwork. I did make some siginificant changes, mostly in the name of simplification and consolidation. There are still some unused macros that I will get around to cleaning up eventually, but in the meantime they have just been commented out. The hardware used for this config was the BTT Octopus pro 429, TMC 2209s, BTT wifi card and a Paneldue i7.
 
