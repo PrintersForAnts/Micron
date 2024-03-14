@@ -1,6 +1,5 @@
 ## Micron
-
-![Rendering of a Micron build](Images/Green-Micron-plus-Render.png)
+![Rendering of a Micron build](https://github.com/PrintersForAnts/Micron/assets/12398294/6084ce95-06f8-4391-bb22-0c11cae98a66)
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
