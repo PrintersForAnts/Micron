@@ -24,7 +24,7 @@ Z axis
 
 Panels/Door
   * New door hinge/ latch system that no longer needs the magnet latch on the inside of the printer
-  * door now supports 3mm foam to help seal the enclosure better 
+  * Door now needs 3mm foam to help seal the enclosure better 
 
 
 
