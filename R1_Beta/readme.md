@@ -22,9 +22,10 @@ Z axis
   * Implemented the BZI idlers for the Z belts
   * Modified BZI to support both toothed idlers and bearing stacks (there are different parts named accordingly)
 
-Panels/Door
+Panels/Door/Skirts
   * New door hinge/ latch system that no longer needs the magnet latch on the inside of the printer
-  * Door now needs 3mm foam to help seal the enclosure better 
+  * Door now needs 3mm foam to help seal the enclosure better
+  * Panel clips will be coming later as will skirts
 
 
 
