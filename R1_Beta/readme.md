@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 Be sure to check out the Micron R1 beta thread on the Doomcube discord for more information 
-test change 123
+
 
 
 ## R1 Change log ##
