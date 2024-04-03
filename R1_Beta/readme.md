@@ -4,9 +4,16 @@
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 Be sure to check out the Micron R1 beta thread on the Doomcube discord for more information 
 
+## Change log ##
+
+### 4-3-24
+ Z axis
+  * New beta rev2 Z drives that support 150mm or 152mm belt loops
+  * Shrunk entire body by 5mm or so
+  * rotated the Z drives 180deg, this makes it easier to retention the closed loop belts after they are assembled if needed (thanks [@Squirrel-brain](https://github.com/Squirrel-brain)) 
 
 
-## R1 Change log ##
+### Initial Beta Release
 Gantry 
   * Swapped rear extrusion and Z chain around
   * Fixed all belt path issues with the gantry
@@ -21,6 +28,7 @@ Z axis
   * New Z drives that use 150mm belt loops with proper belt tensioning 
   * Implemented the BZI idlers for the Z belts
   * Modified BZI to support both toothed idlers and bearing stacks (there are different parts named accordingly)
+    
 
 Panels/Door/Skirts
   * New door hinge/ latch system that no longer needs the magnet latch on the inside of the printer
