@@ -18,7 +18,7 @@ like so:
 
 | Creator | Mod title | Description |
 | --- | --- | --- |
-|LordKillZone|[3010 Side Bed Fans]|(https://github.com/printersforants/Micron/tree/main/Mods/LordKillZone/micron-3010-bed-fans) | Double 3010 side mounted fans to heat chamber much faster
+|LordKillZone|[3010_Side_Bedfans] (https://github.com/printersforants/Micron/tree/main/Mods/LordkillZone/Side_3010_bedfans) | Bedfans mount for 3010 blower. Side  mount under bed
 |BlueSandBox|[Nema_17_Z_Motor_Mount](https://github.com/printersforants/Micron/tree/main/Mods/BlueSandBox/Nema_17_Z_Motor_Mount) | Replaces the Nema14s with Nema17s
 |clee|[Micron+](https://github.com/printersforants/Micron/tree/main/Mods/clee) | Micron+
 |Finn2708|[Dual_MGN7_Toolhead_Carriage](https://github.com/printersforants/Micron/tree/main/Mods/Finn2708/Dual_MGN7_Toolhead_Carriage) | Dual MGN7H Toolhead Carriage 
