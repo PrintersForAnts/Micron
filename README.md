@@ -1,7 +1,19 @@
 ## Micron
 ![Rendering of a Micron build](https://github.com/PrintersForAnts/Micron/assets/12398294/6084ce95-06f8-4391-bb22-0c11cae98a66)
 
-[![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
+
+<p align="center">
+  <a aria-label="Stars" href="https://github.com/PrintersForAnts/Micron/stargazers">
+    <img src="https://img.shields.io/github/stars/PrintersForAnts/Micron?style=flat-square"></a> &nbsp;
+  <a aria-label="Forks" href="https://github.com/PrintersForAnts/Micron/network/members">
+    <img src="https://img.shields.io/github/forks/PrintersForAnts/Micron?style=flat-square"></a> &nbsp;
+  <a aria-label="License" href="https://github.com/PrintersForAnts/Micron/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/PrintersForAnts/Micron?style=flat-square"></a> &nbsp;
+  <a aria-label="Commits" href="">
+    <img src="https://img.shields.io/github/commit-activity/y/PrintersForAnts/Micron?style=flat-square"></a> &nbsp;
+  <a aria-label="Discord" href="">
+    <img alt="Discord" src="https://img.shields.io/discord/825469421346226226?style=flat-square">
+</p>
 
 [The official Micron BOM is here.](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU)
 
