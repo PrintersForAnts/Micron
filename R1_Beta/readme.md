@@ -1,5 +1,5 @@
 ## Micron R1 Beta 
-![Rendering of a Micron build](https://github.com/PrintersForAnts/Micron/assets/12398294/6084ce95-06f8-4391-bb22-0c11cae98a66)
+![Rendering of a Micron build](https://github.com/PrintersForAnts/Micron/assets/12398294/9f905930-95b1-47f4-a604-515db16e991e)
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 Be sure to check out the Micron R1 beta thread on the Doomcube discord for more information 
