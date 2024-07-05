@@ -5,6 +5,16 @@
 Be sure to check out the Micron R1 beta thread on the Doomcube discord for more information 
 
 ## Change log ##
+### 7-05-24
+* added rear power inlet skirts
+* updated printed rail stops to match the style of R1 update (low poly look)
+* added keystone blank model to fill the keystone slots on the rear skirt if not used 
+
+### 7-02-24
+* updated Z drive tensioner body to use longer m3x25 instead of m3x20
+* added optional Hula feet adapters for R1 and G2Z
+* updated latest cad assembly
+
 ### 6-18-24
 * uploaded side skirts and 4.3 waveshare display front skirt
 
