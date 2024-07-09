@@ -42,10 +42,10 @@ HFS3-1515-190 |1 |
 HFS3-1515-120 |1 |
 
 ## Linear Rails
-Part  | Qty | Length
------|----|-----|
-MGN7H | 6 | 150mm
-MGN9C OR MGN9H | 1 | 150mm
+Part  | Qty | Length | Notes
+-----|----|----|----|
+MGN7H | 6 | 160mm | will work with V0 150mm rails if wanted, but 160mm will work as well and is recommended  
+MGN9C OR MGN9H | 1 | 160mm | will work V0 150mm rails but 160 will work as well and is recommended 
 </details>
 
 
