@@ -5,6 +5,15 @@
 Be sure to check out the Micron R1 beta thread on the Doomcube discord for more information 
 
 ## Change log ##
+
+### 7-15-2024
+* Added Beacon probe mount
+
+### 7-08-24
+* Added 120x120 build R1 Cad assembly
+* Added rear skirts for 120x120 builds 
+* Organized files into 120 and 180 specific folders 
+
 ### 7-05-24
 * added rear power inlet skirts
 * updated printed rail stops to match the style of R1 update (low poly look)
