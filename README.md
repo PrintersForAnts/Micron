@@ -4,16 +4,17 @@
 
 <p align="center">
   <a aria-label="Stars" href="https://github.com/PrintersForAnts/Micron/stargazers">
-    <img src="https://img.shields.io/github/stars/PrintersForAnts/Micron?style=flat-square"></a> &nbsp;
+    <img src="https://img.shields.io/github/stars/PrintersForAnts/Micron?style=for-the-badge&logo=github&logoColor=%2344d62c&labelColor=%2363666a&color=%2344d62c""></a> &nbsp;
   <a aria-label="Forks" href="https://github.com/PrintersForAnts/Micron/network/members">
-    <img src="https://img.shields.io/github/forks/PrintersForAnts/Micron?style=flat-square"></a> &nbsp;
+    <img src="https://img.shields.io/github/forks/PrintersForAnts/Micron?style=for-the-badge&logo=github&logoColor=%2344d62c&labelColor=%2363666a&color=%2344d62c""></a> &nbsp;
   <a aria-label="License" href="https://github.com/PrintersForAnts/Micron/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/PrintersForAnts/Micron?style=flat-square"></a> &nbsp;
+    <img src="https://img.shields.io/github/license/PrintersForAnts/Micron?style=for-the-badge&logo=opensourcehardware&logoColor=%2344d62c&labelColor=%2363666a&color=%2344d62c"></a> &nbsp;
   <a aria-label="Commits" href="">
-    <img src="https://img.shields.io/github/commit-activity/y/PrintersForAnts/Micron?style=flat-square"></a> &nbsp;
+    <img src="https://img.shields.io/github/commit-activity/y/PrintersForAnts/Micron?style=for-the-badge&logo=github&logoColor=%2344d62c&labelColor=%2363666a&color=%2344d62c"></a> &nbsp;
   <a aria-label="Discord" href="">
-    <img alt="Discord" src="https://img.shields.io/discord/825469421346226226?style=flat-square">
+<img alt="Discord" src="https://img.shields.io/discord/825469421346226226?style=for-the-badge&logo=discord&logoColor=%2344d62c&label=Discord&labelColor=%2363666a&color=%2344d62c&link=https%3A%2F%2Fdiscord.gg%2Fdoomcube">
 </p>
+    
 
 [The official Micron BOM is here.](https://docs.google.com/spreadsheets/d/1caKSc-EukVpRgN67_by_hdzVPlExSRQ66j3OXlEmcCU)
 
@@ -21,9 +22,9 @@ If you want to purchase full kits there are 3 available
 
 <a href="https://www.formbot3d.com/products/presale-voron-micron-180mm-high-quality-corexy-3d-printer-kit?DIST=Rk9OHl4%3D" rel="nofollow">Formbot Micron+ (180x180) Kit (Affiliate Link)</a>
 
-<a href="https://s.click.aliexpress.com/e/_DBeQGFb" rel="nofollow">Funssor Micron (120x120) Kit (Affiliate Link)</a>
+<a href="https://s.click.aliexpress.com/e/_DBn6Ptd" rel="sponsored">Funssor Micron (120x120) Kit (Affiliate Link)</a>
 
-<a href="https://s.click.aliexpress.com/e/_Dd6tmYz" rel="nofollow">Funssor Micron+ (180x180) Kit (Affiliate Link)</a>
+<a href="https://s.click.aliexpress.com/e/_DDDUFkF" rel="nofollow">Formbot Micron+ (180x180) Kit (Aliexpress Affiliate Link)</a>
 
 
 
