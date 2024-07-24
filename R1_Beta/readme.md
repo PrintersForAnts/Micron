@@ -6,6 +6,13 @@ Be sure to check out the Micron R1 beta thread on the Doomcube discord for more 
 
 ## Change log ##
 
+### 7-23-2024
+* Update Beacon mount to work with older Rev D beacon probes 
+* Added a new rear bowden entry set, supporting m10 collet, ECAS collet, or No collet 
+* Added R1 style stock panel clips (tool less panel clips are coming soon as an option as well)
+* Added fixed Z belt covers to better fit with the R1 Z belt location
+* Organized the panel file directory 
+
 ### 7-15-2024
 * Added Beacon probe mount
 
