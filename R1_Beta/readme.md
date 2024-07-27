@@ -12,6 +12,12 @@ Be sure to check out the Micron R1 beta thread on the Doomcube discord for more 
 ## Change log ##
 
 ### 7-23-2024
+* Updated R1 Skirts to now include accent strips along the bottom as well as allow for a bottom panel to fit
+* Updated skirts to they are all the same height , some had about ~1mm difference between them 
+* Updated the waveshare mount to now us m2 self tapping screws instead of filament to keep bezel on 
+* Updated Z drive foot mount to accommodate  bottom panel 
+
+### 7-23-2024
 * Update Beacon mount to work with older Rev D beacon probes 
 * Added a new rear bowden entry set, supporting m10 collet, ECAS collet, or No collet 
 * Added R1 style stock panel clips (tool less panel clips are coming soon as an option as well)
