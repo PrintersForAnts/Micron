@@ -11,6 +11,32 @@ Be sure to check out the Micron R1 beta thread on the Doomcube discord for more 
 
 ## Change log ##
 
+### 8-11-2024
+* updated the Hula foot mounts to the latest version that works with the bottom panel
+* added new TFT35 display front skirt 
+* updated latest cad assembly v55
+* removed old cad files no longer needed (moved hula cad files into main assembly)
+
+### 8-2-2024
+* organized panel clip files
+* updated latest cad assembly v54
+* added dual color rear bowden entry option
+
+### 8-1-2024
+* Updated Z drives for better printability to match new skirt accent pieces
+* Added under bed filter from KyleGB to the main repo (still need STLs)
+
+### 7-27-2024
+* fixed waveshare accent pieces
+* updated latest cad assembly v52
+* updated skirts with new accent pieces as well as bottom panel mounting provisions
+  
+
+### 7-25-2024
+* Updated z belt cover accent cover to fit better
+* added twist lock panel clips for 3mm foam and panels
+* fixed printing orientation for rail stops and umbilical mounts
+
 ### 7-23-2024
 * Updated R1 Skirts to now include accent strips along the bottom as well as allow for a bottom panel to fit
 * Updated skirts to they are all the same height , some had about ~1mm difference between them 
