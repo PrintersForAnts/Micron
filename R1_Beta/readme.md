@@ -1,6 +1,5 @@
 ## Micron R1 Beta 
-![Rendering of a Micron build](https://github.com/PrintersForAnts/Micron/assets/12398294/9f905930-95b1-47f4-a604-515db16e991e)
-
+![Rendering of a Micron build](https://github.com/user-attachments/assets/76d17d27-6f04-4e86-9524-b83c739ac207)
 <p align="center">
 <img alt="Discord" src="https://img.shields.io/discord/825469421346226226?style=for-the-badge&logo=discord&logoColor=%2344d62c&label=Discord&labelColor=%2363666a&color=%2344d62c&link=https%3A%2F%2Fdiscord.gg%2Fdoomcube">
 </p>
