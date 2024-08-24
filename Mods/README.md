@@ -64,5 +64,5 @@ like so:
 ||[1515 Daygreen 5VDC Voltage Regulator Mount](./G/1515%20Daygreen%205VDC%20Regulator%20Mount) | Low profile for Micron bay mounting of the Daygreen 5VDC Voltage Regulator |
 ||[Bowden Tube Holder (Extended)](./G/Bowden%20Tube%20Holder%20Extended) | Extended Micron bowden tube holder to fit the R1 top panel with 3mm foam |
 ||[More WAGO Mounts](./G/More%20WAGO%20Mounts) | Additional wago mounts based on the micron 1515 mount for two five-port and two three-port configurations |
-||[Zip and PCB DIN Clip](./G/Zip%20and%20PCB%20DIN%20Clip) | Modified PCB DIN Clip to add zip tie holes |
+||[Zip Tie and PCB DIN Clip](./G/Zip%20Tie%20and%20PCB%20DIN%20Clip) | Modified PCB DIN Clip to add zip tie holes |
 ---
