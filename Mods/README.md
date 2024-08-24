@@ -60,4 +60,9 @@ like so:
 ||[Spool Mount with Rollers](https://github.com/PrintersForAnts/Micron/tree/main/Mods/CoookieTM/rolling%20spool%20mount) | Reduces friction for spools
 |risqy|[Micron+ 4010 Bed Fans](https://github.com/printersforants/Micron/tree/main/Mods/risqy/Micron-Plus-Bed-Fans) | Micron+ Bed Fan Mount for 2x 4010 Blower
 |Shix|[MicronPlus mini12864 front skirt Mount](https://github.com/PrintersForAnts/Micron/tree/main/Mods/Shix/MicronPlus%20mini12864%20front%20skirt%20mount) | Mounting Options for the mini12864 for the front skirt of the Micron+
+|G|[1515 Bed Angle Bracket (Notched)](https://github.com/PrintersForAnts/Micron/tree/main/Mods/G/1515%Bed%Angle%Bracket%Notched) | Notched bed angle bracket for R1 Micron Filter |
+||[1515 Daygreen 5VDC Voltage Regulator Mount](https://github.com/PrintersForAnts/Micron/tree/main/Mods/G/1515%Daygreen%5VDC%Regulator%Mount) | Low profile for Micron bay mounting of the Daygreen 5VDC Voltage Regulator |
+||[Bowden Tube Holder (Extended)](https://github.com/PrintersForAnts/Micron/tree/main/Mods/G/Bowden%Tube%Holder%Extended) | Extended Micron bowden tube holder to fit the R1 top panel with 3mm foam |
+||[More WAGO Mounts](https://github.com/PrintersForAnts/Micron/tree/main/Mods/G/More%WAGO%Mounts) | Additional wago mounts based on the micron 1515 mount for two five-port and two three-port configurations |
+||[Zip and PCB DIN Clip](https://github.com/PrintersForAnts/Micron/tree/main/Mods/G/Zip%and%PCB%DIN%Clip) | Modified PCB DIN Clip to add zip tie holes |
 ---
