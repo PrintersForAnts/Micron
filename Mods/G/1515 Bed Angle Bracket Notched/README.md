@@ -5,6 +5,6 @@ This is a modifed bed angle bracket to allow the use of the Micron R1 filter wit
 
 Mirror the part in the slicer to print the opposite side. 
 
-![CAD image](images/image1.jpg)
+![CAD image](Images/image1.jpg)
 
-![picture](images/IMG_2078.JPG)
+![picture](Images/IMG_2078.JPG)

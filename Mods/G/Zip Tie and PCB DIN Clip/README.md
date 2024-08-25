@@ -5,6 +5,6 @@ This is a modifed PCB Din Clip to add slots for zip ties. This clip allows wire 
 
 The PCB mount holes were retained for part commonality.  
 
-![cad](images/cad.jpg)
+![cad](Images/cad.jpg)
 
-![picture](images/IMG_2081.JPG)
+![picture](Images/IMG_2081.JPG)

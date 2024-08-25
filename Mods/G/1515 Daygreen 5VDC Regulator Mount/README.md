@@ -3,4 +3,4 @@
 
 This is a mount based off of the 1515 WAGO mount to secure a Daygreen 5VDC Voltage Regulator. Four heatset inserts are used in the mount to fasten the regulator. 
 
-![picture](images/IMG_2079.JPG)
+![picture](Images/IMG_2079.JPG)

@@ -61,6 +61,7 @@ like so:
 |risqy|[Micron+ 4010 Bed Fans](https://github.com/printersforants/Micron/tree/main/Mods/risqy/Micron-Plus-Bed-Fans) | Micron+ Bed Fan Mount for 2x 4010 Blower
 |Shix|[MicronPlus mini12864 front skirt Mount](https://github.com/PrintersForAnts/Micron/tree/main/Mods/Shix/MicronPlus%20mini12864%20front%20skirt%20mount) | Mounting Options for the mini12864 for the front skirt of the Micron+
 |G|[1515 Bed Angle Bracket (Notched)](./G/1515%20Bed%20Angle%20Bracket%20Notched) | Notched bed angle bracket for R1 Micron Filter |
+||[1515 BTT SFS Mount](./G/1515%20BTT%20SFS%20Mount) | BTT Smart Filament Sensor Mount based on the bowden tube holder |
 ||[1515 Daygreen 5VDC Voltage Regulator Mount](./G/1515%20Daygreen%205VDC%20Regulator%20Mount) | Low profile for Micron bay mounting of the Daygreen 5VDC Voltage Regulator |
 ||[Bowden Tube Holder (Extended)](./G/Bowden%20Tube%20Holder%20Extended) | Extended Micron bowden tube holder to fit the R1 top panel with 3mm foam |
 ||[More WAGO Mounts](./G/More%20WAGO%20Mounts) | Additional wago mounts based on the micron 1515 mount for two five-port and two three-port configurations |
