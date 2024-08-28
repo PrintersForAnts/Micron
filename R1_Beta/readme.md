@@ -99,7 +99,7 @@ Be sure to check out the Micron R1 beta thread on the Doomcube discord for more 
   *  Added Nema14 Z motor mounts
 
 ### 4-3-24
-  * New beta rev2 Z drives that support 150mm or 152mm belt loops
+  * New beta rev2 Z drives with the 152mm belt loops
   * Shrunk entire body by 5mm or so
   * rotated the Z drives 180deg, this makes it easier to retention the closed loop belts after they are assembled if needed (thanks [@Squirrel-brain](https://github.com/Squirrel-brain)) 
 
@@ -116,7 +116,7 @@ Gantry
   * Modified the BFI idlers from clees repo to fix the belt path for the R1 gantry 
     
 Z axis
-  * New Z drives that use 150mm belt loops with proper belt tensioning 
+  * New Z drives that use 152mm belt loops with proper belt tensioning 
   * Implemented the BZI idlers for the Z belts
   * Modified BZI to support both toothed idlers and bearing stacks (there are different parts named accordingly)
     
@@ -133,7 +133,7 @@ Panels/Door/Skirts
 Item  |Qty | Notes
  ----|----|----|
 GT2-16-Toothed Idler | 6 | XY-Joints and Z idlers now use toothed idlers by default, bearing stacks will still work 
-GT2-150mm closed loop belt | 4 | New Z drives use 150mm belt loops instead of the 188mm 
+GT2-152mm closed loop belt | 4 | New Z drives use 152mm belt loops instead of the 188mm 
 screws | IDK | i havent gone through and checked the changes for the hardware as of yet 
 MGN9H | 1 | X rail is now going to be spec as an MGN9H rail instead of MGN9C to support boop natively 
 Klicky_PCB | 1 | now offical support optional as standard klikcy is still supported 
