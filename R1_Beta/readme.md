@@ -8,7 +8,26 @@
 Be sure to check out the Micron R1 beta thread on the Doomcube discord for more information 
 </p>
 
+[Fusion source file](https://a360.co/3B1J6Mu)
+
 ## Change log ##
+
+### 9-5-2024
+* cleaned up main cad assembly 
+* posted link to fusion source assembly file to be downloaded
+* adjusted gantry files to no longer need built in printed shim, now there are shims on both sides of every bearing stack 
+
+### 9-3-2024
+* added missing filter files 
+* fixed naming issues on certain files 
+
+### 9-2-2024
+* added new under bed carbon filter
+* started on CAD assembly clean up 
+* renamed various files 
+
+### 8-22-2024 
+* cleaned up files
 
 ### 8-11-2024
 * updated the Hula foot mounts to the latest version that works with the bottom panel
