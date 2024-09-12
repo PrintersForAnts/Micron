@@ -12,6 +12,16 @@ Be sure to check out the Micron R1 beta thread on the Doomcube discord for more 
 
 ## Change log ##
 
+### 9-12-2024
+* added CNC gantry top bearing mount
+* Updated all the umbilical mounts to accomodate the new top bearing mount, as it was interfearing
+* removed the YC8 version of the umbilical
+* updated cad assembly to v59 
+
+
+### 9-10-2024
+* Added new top bearing support for a double shear bearing on the AB motors 
+
 ### 9-5-2024
 * cleaned up main cad assembly 
 * posted link to fusion source assembly file to be downloaded
