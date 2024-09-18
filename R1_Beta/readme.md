@@ -12,6 +12,9 @@ Be sure to check out the Micron R1 beta thread on the Doomcube discord for more 
 
 ## Change log ##
 
+### 9-18-2024
+* fixed incorrect counterbore bridging on the rear bowden entry files (thanks to user named Yell for finding that)
+
 ### 9-12-2024
 * added CNC gantry top bearing mount
 * Updated all the umbilical mounts to accomodate the new top bearing mount, as it was interfearing
