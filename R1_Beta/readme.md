@@ -12,6 +12,9 @@ Be sure to check out the Micron R1 beta thread on the Doomcube discord for more 
 
 ## Change log ##
 
+### 9-20-2024
+* increased tension travel on the front idlers by 5mm (from 3mm to 8mm) , minor changes to the front cover of the idler as well
+
 ### 9-18-2024
 * fixed incorrect counterbore bridging on the rear bowden entry files (thanks to user named Yell for finding that)
 
