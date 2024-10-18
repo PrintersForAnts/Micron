@@ -12,6 +12,12 @@ Be sure to check out the Micron R1 beta thread on the Doomcube discord for more 
 
 ## Change log ##
 
+
+### 10-17-2024
+* Added G2Z Cad and organized all the STLS (Z drives and skirts) G2Z uses same foot mounts from R1Z and skirt accent pieces 
+* fixed Pinned XY joints hole sizes to now all be 3.2mm 
+* Updated latest assembly to include [Anthead](https://github.com/PrintersForAnts/AntHead)
+
 ### 9-20-2024
 * increased tension travel on the front idlers by 5mm (from 3mm to 8mm) , minor changes to the front cover of the idler as well
 
