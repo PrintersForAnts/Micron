@@ -18,6 +18,8 @@ like so:
 
 | Creator | Mod title | Description |
 | --- | --- | --- |
+|Asica10|[Z_idler](https://github.com/Asica10/Micron/tree/main/Mods/Asica10/Z_idler) | Z idler carriage adjusted for 15mm toothed idler / Z idler body with wires cutout.
+||[Crazy_Ivan_double_shear](https://github.com/Asica10/Micron/tree/main/Mods/Asica10/Crazy_Ivan_double_shear) | Crazy Ivan for double shear stepper shaft.
 |LordKillZone|[3010_Side_Bedfans] (https://github.com/printersforants/Micron/tree/main/Mods/LordkillZone/Side_3010_bedfans) | Bedfans mount for 3010 blower. Side  mount under bed
 |BlueSandBox|[Nema_17_Z_Motor_Mount](https://github.com/printersforants/Micron/tree/main/Mods/BlueSandBox/Nema_17_Z_Motor_Mount) | Replaces the Nema14s with Nema17s
 |clee|[Micron+](https://github.com/printersforants/Micron/tree/main/Mods/clee) | Micron+
