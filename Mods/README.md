@@ -68,4 +68,5 @@ like so:
 ||[Bowden Tube Holder (Extended)](./G/Bowden%20Tube%20Holder%20Extended) | Extended Micron bowden tube holder to fit the R1 top panel with 3mm foam |
 ||[More WAGO Mounts](./G/More%20WAGO%20Mounts) | Additional wago mounts based on the micron 1515 mount for two five-port and two three-port configurations |
 ||[Zip Tie and PCB DIN Clip](./G/Zip%20Tie%20and%20PCB%20DIN%20Clip) | Modified PCB DIN Clip to add zip tie holes |
+| Foof | [R1 60T POWGE Pulley Z Drive Mod](./Foof/Micron%20R1%2060T%20Z%20Drive%20Mod) | Modified R1 Z drives to accomodate the larger width POWGE 60T Pulleys. |
 ---
