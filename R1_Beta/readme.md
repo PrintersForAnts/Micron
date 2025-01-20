@@ -8,10 +8,13 @@
 Be sure to check out the Micron R1 beta thread on the Doomcube discord for more information 
 </p>
 
-[Fusion source file](https://a360.co/3B1J6Mu)
 
 ## Change log ##
 
+### 01-20-2025
+* fixed issues #143 , #141, #138 , #137
+* Updated CAD to RC1 status
+* uploaded WIP manual with updated preloaded nut callouts 
 
 ### 10-17-2024
 * Added G2Z Cad and organized all the STLS (Z drives and skirts) G2Z uses same foot mounts from R1Z and skirt accent pieces 
