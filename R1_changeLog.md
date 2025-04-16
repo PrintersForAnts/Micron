@@ -1,15 +1,21 @@
-## Micron R1 Beta 
-![Rendering of a Micron build](https://github.com/user-attachments/assets/76d17d27-6f04-4e86-9524-b83c739ac207)
-<p align="center">
-<img alt="Discord" src="https://img.shields.io/discord/825469421346226226?style=for-the-badge&logo=discord&logoColor=%2344d62c&label=Discord&labelColor=%2363666a&color=%2344d62c&link=https%3A%2F%2Fdiscord.gg%2Fdoomcube">
-</p>
-
-<p align="center">
-Be sure to check out the Micron R1 beta thread on the Doomcube discord for more information 
-</p>
-
 
 ## Change log ##
+
+### 04-15-2025
+* added dual 5015 bed fan option
+* updated filter cartridge and catridge lid to match the new bed fans
+* updated CAD assembly to RC3 with all the latest changes
+
+### 03-03-2025
+* fixed [#148](https://github.com/PrintersForAnts/Micron/issues/148)
+* fixed [#149](https://github.com/PrintersForAnts/Micron/issues/149)
+
+### 02-05-2025
+* added missing parts to the CAD assembly caused by a bad export 
+
+### 01-28-2025
+* fixed issue with bearings rubbing on the A drive
+* closed up the Z belt holes in the AB drives and front idlers and made them more symmetrical
 
 ### 01-20-2025
 * fixed issues #143 , #141, #138 , #137
