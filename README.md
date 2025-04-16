@@ -26,7 +26,7 @@ If you want to purchase full kits there are 3 available (Kits are slowly updatin
 
 <a href="https://s.click.aliexpress.com/e/_DDDUFkF" rel="nofollow">Formbot Micron+ (180x180) Kit (Aliexpress Affiliate Link)</a>
 
-## [R1 Change Log](https://github.com/PrintersForAnts/Micron/edit/main/R1_changeLog.md)
+## [R1 Change Log](https://github.com/PrintersForAnts/Micron/blob/main/R1_changeLog.md)
 
 <details> 
    <summary>
