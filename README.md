@@ -1,5 +1,5 @@
 ## Micron
-![Rendering of a Micron build](https://github.com/PrintersForAnts/Micron/assets/12398294/6084ce95-06f8-4391-bb22-0c11cae98a66)
+![Rendering of a Micron build](https://github.com/user-attachments/assets/76d17d27-6f04-4e86-9524-b83c739ac207)
 
 
 <p align="center">
