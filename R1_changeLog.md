@@ -102,53 +102,53 @@
 ### 7-15-2024
 * Added Beacon probe mount
 
-### 7-08-24
+### 7-08-2024
 * Added 120x120 build R1 Cad assembly
 * Added rear skirts for 120x120 builds 
 * Organized files into 120 and 180 specific folders 
 
-### 7-05-24
+### 7-05-2024
 * added rear power inlet skirts
 * updated printed rail stops to match the style of R1 update (low poly look)
 * added keystone blank model to fill the keystone slots on the rear skirt if not used 
 
-### 7-02-24
+### 7-02-2024
 * updated Z drive tensioner body to use longer m3x25 instead of m3x20
 * added optional Hula feet adapters for R1 and G2Z
 * updated latest cad assembly
 
-### 6-18-24
+### 6-18-2024
 * uploaded side skirts and 4.3 waveshare display front skirt
 
-### 6-2-24
+### 6-2-2024
 * changed hex pattern on Z drives to make them easier to print 
 
-### 5-21-24
+### 5-21-2024
 * adjust the location of the Z gantry belts pulley to fit in the front idlers better ([#124](https://github.com/PrintersForAnts/Micron/issues/124))
 
-### 5-14-24
+### 5-14-2024
 * fixed z drive issue with inconsistencies with both A and B z drives ([#120](https://github.com/PrintersForAnts/Micron/issues/120))
 * updated z tensioner bearing overhang to be easier to print ([#122](https://github.com/PrintersForAnts/Micron/issues/122))
 
-### 5-7-24
+### 5-7-2024
 * Added ziptie spot on to klicky dock
 
-### 5-6-24
+### 5-6-2024
  * Updated Z drives to fit powge and formbot metal 64T pulleys ([#115](https://github.com/PrintersForAnts/Micron/issues/115))
  * Updated Z idlers to fit toothed pulleys with a flange of 13mm OD ([#116](https://github.com/PrintersForAnts/Micron/issues/116))
  * raised klicky dock , it was hanging too low ([#117](https://github.com/PrintersForAnts/Micron/issues/117))
  * updated spool holder to now work with 3mm foam ([#118](https://github.com/PrintersForAnts/Micron/issues/118))
 
-### 4-6-24
+### 4-6-2024
  * added pushed rigid z joints
  * new z belt covers
  * new bowden tube holder
  * new removable spool holder (modified from LDOs)
 
-### 4-5-24
+### 4-5-2024
   *  Added Nema14 Z motor mounts
 
-### 4-3-24
+### 4-3-2024
   * New beta rev2 Z drives with the 152mm belt loops
   * Shrunk entire body by 5mm or so
   * rotated the Z drives 180deg, this makes it easier to retention the closed loop belts after they are assembled if needed (thanks [@Squirrel-brain](https://github.com/Squirrel-brain)) 
