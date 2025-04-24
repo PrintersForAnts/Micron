@@ -1,5 +1,85 @@
+## Changes From R0 
+### Gantry 
+  * AB Drives
+    * supports pinned bearings/pulleys or screws (pins are 25mm)
+    * option for adding a top bearing support for stepper motor shafts (uses F695 bearings)
+    * Fixed all belt path issues with the gantry
+    * integrated Y endstop/sensorless endstop 
+  * Gave every piece a low poly / stealthy look to them
+  * Z Joints
+    * updated KGLM z joints so they are less prone to cracking
+    * Added Rigid Z joints
+  * XY Joints
+    * Stock build now uses Toothed idlers
+    * supports pinned bearings/pulleys or screws (pins are 25mm)
+    * option to use Live Idlers
+  * Front Idlers
+    * Implemented the BFI idlers for the AB belts
+    * Modified the BFI idlers from clees repo to fix the belt path for the R1 gantry 
+  * Rear Gantry Changes 
+    * Swapped rear extrusion and Z chain to give more room for toolhead board wiring/umbilical
+    * Removed support for the printed Z chain
+    * Z-Chain guide now has chamber thermistor mount
+    * New klicky probe dock that keys into the B drive
+  * X Carriage
+    * No changes to the X carriage
+    * New probe mounts, now supports the following probes also includes a printed sensorless endstop bumper for X 
+      * Beacon/Cartographer
+      * Klicky
+      * KlickyPCB
+      * BIQU Microprobe
+  * Toolhead 
+    * [Anthead](https://github.com/PrintersForAnts/AntHead) is now the stock toolhead
 
-## Change log ##
+### Z axis
+  * Z Drives
+    * Z drives now use 152mm belt loops to keep the entire assembly really compact
+    * screw driven closed loop belt tensioning
+    * supports nema14 / 17 (up to 52 mm long motors)
+    * Option for G2Z Z drives now supported with matching skirts
+  * Z Idlers
+    * BZI idlers for the Z belts
+    * Modified BZI to support both toothed idlers and bearing stacks (there are different parts named accordingly)
+    * Option for live Idlers Z idlers
+
+    
+### Panels/Door/Skirts
+  * Door
+    * New door hinge/ latch system that no longer needs the magnet latch on the inside of the printer
+    * Door now needs 3mm foam to help seal the enclosure better
+  * Panel clips
+    * 2 new panel clip options 
+    * Toolless twist lock panel clip
+    * screwed on panel clips
+    * There is a parametric panel clip [CAD file](https://github.com/PrintersForAnts/Micron/blob/main/CAD/SubAssemblies.zip) so you can get custom sized for your build if needed (stock uses 3mm foam and 3mm panels)
+    * reverse bowden tube entry now has multiple versions for different types of collets
+    * ptfe guide attaches via twist lock setup similar to panel clips
+    * Spool holder is now 2 pieces so it can be stored flat when not needed
+  * Bottom Panels screw holes have been moved (Bottom panel is not required in the build)
+  * Z Belt Panel covers have been updated with a new insert to cover the hole to help keep out debris
+  * Skirts
+    * All new Skirts to match the new aesthetic
+    * Rear Skirts
+      * Rear skirt now includes 2 keystone slots
+      * Option for filtered power Inlets
+    * Front Skirt
+      * Headless option now has all the hexes in the grid are centered correctly (previous version was not)
+      * Added [BTT TFT35](https://s.click.aliexpress.com/e/_on454Nj) display mount
+      * Added [Waveshare 4.3](https://www.waveshare.com/4.3inch-dsi-lcd.htm) and [BTT43](https://s.click.aliexpress.com/e/_oCLFmxB) mount (same mount for both displays)
+    
+### Accessories
+  * Filter
+    * New carbon filter added to mount under the bed
+    * Uses a single 5015 fan for the filter
+  * Bed heater / air circulation fans
+    *   Dual 5015 bed fans
+    *   Printed part replaces the stock Z belt covers on the front of the printer
+  * Handles have been updated to be easier to mount , no longer need to be removed to remove top panel
+
+
+## 
+  
+## Commit Change log ##
 
 ### 04-15-2025
 * added dual 5015 bed fan option
@@ -154,27 +234,6 @@
   * rotated the Z drives 180deg, this makes it easier to retention the closed loop belts after they are assembled if needed (thanks [@Squirrel-brain](https://github.com/Squirrel-brain)) 
 
 
-### Initial Beta Release
-Gantry 
-  * Swapped rear extrusion and Z chain around
-  * Fixed all belt path issues with the gantry
-  * Gave every piece a low poly / stealthy look to them
-  * New z joints that are stronger/ less prone to cracking
-  * Added support for 3mm pins OR screws for the gantry
-  * Removed support for the printed Z chain (will revisit later)
-  * Implemented the BFI idlers for the AB belts
-  * Modified the BFI idlers from clees repo to fix the belt path for the R1 gantry 
-    
-Z axis
-  * New Z drives that use 152mm belt loops with proper belt tensioning 
-  * Implemented the BZI idlers for the Z belts
-  * Modified BZI to support both toothed idlers and bearing stacks (there are different parts named accordingly)
-    
-
-Panels/Door/Skirts
-  * New door hinge/ latch system that no longer needs the magnet latch on the inside of the printer
-  * Door now needs 3mm foam to help seal the enclosure better
-  * Panel clips will be coming later as will skirts
 
 
 
