@@ -1,7 +1,6 @@
 ## Micron R1
 ![Rendering of a Micron build](https://github.com/user-attachments/assets/76d17d27-6f04-4e86-9524-b83c739ac207)
-
-
+# [Printed Part Configurator](https://micron.wizards-enclave.net/) 
 <p align="center">
   <a aria-label="Stars" href="https://github.com/PrintersForAnts/Micron/stargazers">
     <img src="https://img.shields.io/github/stars/PrintersForAnts/Micron?style=for-the-badge&logo=github&logoColor=%2344d62c&labelColor=%2363666a&color=%2344d62c""></a> &nbsp;
