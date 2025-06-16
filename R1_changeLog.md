@@ -81,6 +81,9 @@
   
 ## Commit Change log ##
 
+### 06-15-2025
+* Added dedicated Pinned version for the front idler carrier 
+
 ### 04-15-2025
 * added dual 5015 bed fan option
 * updated filter cartridge and catridge lid to match the new bed fans
