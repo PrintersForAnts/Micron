@@ -1,5 +1,6 @@
 ## Micron R1
-![Rendering of a Micron build](https://github.com/user-attachments/assets/76d17d27-6f04-4e86-9524-b83c739ac207)
+![Rendering of a Micron build](https://github.com/user-attachments/assets/10e4061b-a2dd-4d93-bba7-cf4b91859f6a)
+
 # [Printed Part Configurator](https://micron.wizards-enclave.net/) 
 <p align="center">
   <a aria-label="Stars" href="https://github.com/PrintersForAnts/Micron/stargazers">
