@@ -20,7 +20,7 @@
 
 If you want to purchase full kits there are 3 available (Kits are slowly updating to R1 hardware just make sure to double check the included hardware in your kit and if you have any questions reach out in the discord) 
 
-<a href="https://www.formbot3d.com/products/presale-voron-micron-180mm-high-quality-corexy-3d-printer-kit?DIST=Rk9OHl4%3D" rel="nofollow">Formbot Micron+ (180x180) Kit (Affiliate Link)</a>
+<a href="https://www.formbot3d.com/products/voron-micron-r1-180mm-high-quality-corexy-3d-printer-kit-latest-version?DIST=Rk9OHl4%3D" rel="nofollow">Formbot Micron+ (180x180) Kit (Affiliate Link)</a>
 
 <a href="https://s.click.aliexpress.com/e/_DBn6Ptd" rel="sponsored">Funssor Micron (120x120) Kit (Affiliate Link)</a>
 
