@@ -7,4 +7,4 @@ there is also probe sections to uncomment based on the probe you are using (klic
 
 
 ```
-cd ~/printer_data/config && curl -s https://api.github.com/repos/PrintersForAnts/Micron/contents/Firmware/Config | grep download_url | cut -d '"' -f 4 | xargs -n1 curl -sOL
+cd ~/printer_data && curl -s https://api.github.com/repos/PrintersForAnts/Micron/contents/Firmware/printer_data | grep download_url | cut -d '"' -f 4 | xargs -n1 curl -sOL
