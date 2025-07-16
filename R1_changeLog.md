@@ -15,7 +15,8 @@
     * option to use Live Idlers
   * Front Idlers
     * Implemented the BFI idlers for the AB belts
-    * Modified the BFI idlers from clees repo to fix the belt path for the R1 gantry 
+    * Modified the BFI idlers from clees repo to fix the belt path for the R1 gantry
+    * supports pinned bearings or screws (pins are 14mm)
   * Rear Gantry Changes 
     * Swapped rear extrusion and Z chain to give more room for toolhead board wiring/umbilical
     * Removed support for the printed Z chain
@@ -41,6 +42,7 @@
     * BZI idlers for the Z belts
     * Modified BZI to support both toothed idlers and bearing stacks (there are different parts named accordingly)
     * Option for live Idlers Z idlers
+    * supports pinned bearings or screws (pins are 18mm)
 
     
 ### Panels/Door/Skirts
