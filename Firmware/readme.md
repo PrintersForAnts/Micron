@@ -1,9 +1,21 @@
 # Micron Firmware Config
 
 run this script in your terminal to download the basic Micron cfg, 
-make sure to go through the entire cfg and setup the pin names for your controller as well as uncomment the sections required for your build size (120 or 180) 
-there is also probe sections to uncomment based on the probe you are using (klicky, beacon, microprobe) 
+make sure to go through the entire cfg and uncomment the sections required 
 
+* Build Size (120 or 180) 
+* MCU
+* Toolhead MCU
+* Probe
+
+
+This will download he default config as well as a sample gcode for printing a test cube
+
+to initiate the test cube print, run the macro 
+
+`PRINT_TEST_CUBE` 
+then your webui will prompt you to choose which filament type you are using for the test print 
+<img width="403" height="164" alt="image" src="https://github.com/user-attachments/assets/33613615-f327-4eb0-b787-492b8c354513" />
 
 
 ```
