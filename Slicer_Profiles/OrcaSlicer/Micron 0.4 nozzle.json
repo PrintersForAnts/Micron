@@ -1,0 +1,19 @@
+{
+    "change_filament_gcode": "M600",
+    "from": "system",
+    "inherits": "Voron 2.4 250 0.4 nozzle",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\n\n; SET_PRINT_STATS_INFO Support\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}",
+    "machine_start_gcode": "PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n\n; You can use following code instead if your PRINT_START macro support Chamber and print area bedmesh\n; PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] Chamber=[chamber_temperature] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]}\n\n; SET_PRINT_STATS_INFO Support\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]",
+    "manual_filament_change": "1",
+    "name": "Micron 0.4 nozzle",
+    "print_host": "127.0.0.1",
+    "printable_area": [
+        "0x0",
+        "120x0",
+        "120x120",
+        "0x120"
+    ],
+    "printable_height": "120",
+    "printer_settings_id": "Micron 0.4 nozzle",
+    "version": "1.10.0.1"
+}
