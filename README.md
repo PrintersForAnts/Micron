@@ -87,7 +87,7 @@ MGN9C OR MGN9H | 1 | 220mm
 </details>
 
 ## No Drop Nuts
-There are 2 versions of this mod, 1 from [Zruncho](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/zruncho/V0_No_Drop_Nuts) and the other from a user named [Zen3D](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Zen3D/V0_1515_T-nut/). Both of them have their uses. I prefer to use the Zen3D kind just for the fact that the screw can go all the way through the printed part. Zrunchos do have a much nicer fitment into the extrusions but they also dont allow the screw to go all the way through. **NOTE:** the Zruncho nuts will not fit anywhere that has a tab to index to the extrusion - this includes the A/B drives, all idlers, and skirts. If you want to print only one of nut, use the Zen3d nuts.
+There are 2 versions of this mod, 1 from [Zruncho](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/zruncho/V0_No_Drop_Nuts) and the other from a user named [Zen3D](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Zen3D/V0_1515_T-nut/). Both of them have their uses. I prefer to use the Zen3D kind just for the fact that the screw can go all the way through the printed part. Zrunchos do have a much nicer fitment into the extrusions but they also dont allow the screw to go all the way through. **NOTE:** the Zruncho nuts will not fit anywhere that has a tab to index to the extrusion - this includes the A/B drives, all idlers, and skirts. If you want to print only one type of nut, use the Zen3d nuts.
 
 ## Thank you
 Thanks to the following people on Discord who have helped make this printer what it is today. 
