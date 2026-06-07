@@ -18,20 +18,19 @@ like so:
 
 | Creator | Mod title | Description |
 | --- | --- | --- |
-|Asica10|[Z_idler](https://github.com/Asica10/Micron/tree/main/Mods/Asica10/Z_idler) | Z idler carriage adjusted for 15mm toothed idler / Z idler body with wires cutout.
-||[Crazy_Ivan_double_shear](https://github.com/Asica10/Micron/tree/main/Mods/Asica10/Crazy_Ivan_double_shear) | Crazy Ivan for double shear stepper shaft.
-|LordKillZone|[3010_Side_Bedfans] (https://github.com/printersforants/Micron/tree/main/Mods/LordkillZone/Side_3010_bedfans) | Bedfans mount for 3010 blower. Side  mount under bed
+|Asica10|[Z_idler](https://github.com/printersforants/Micron/tree/main/Mods/Asica10/Z_idler) | Z idler carriage adjusted for 15mm toothed idler / Z idler body with wires cutout.
+||[Crazy_Ivan_double_shear](https://github.com/printersforants/Micron/tree/main/Mods/Asica10/Crazy_Ivan_double_shear) | Crazy Ivan for double shear stepper shaft.
+|LordKillZone|[3010_Side_Bedfans](https://github.com/printersforants/Micron/tree/main/Mods/LordKillZone/Side_3010_bedfans) | Bedfans mount for 3010 blower. Side  mount under bed
 |BlueSandBox|[Nema_17_Z_Motor_Mount](https://github.com/printersforants/Micron/tree/main/Mods/BlueSandBox/Nema_17_Z_Motor_Mount) | Replaces the Nema14s with Nema17s
-|clee|[Micron+](https://github.com/printersforants/Micron/tree/main/Mods/clee) | Micron+
 |Finn2708|[Dual_MGN7_Toolhead_Carriage](https://github.com/printersforants/Micron/tree/main/Mods/Finn2708/Dual_MGN7_Toolhead_Carriage) | Dual MGN7H Toolhead Carriage 
 ||[Zerofilter_mounting_bracket](https://github.com/printersforants/Micron/tree/main/Mods/Finn2708/Zerofilter_mounting_bracket) | Mounting bracket for Zerofilter 
 ||[AB_Motor_Microfit_Connector](https://github.com/printersforants/Micron/tree/main/Mods/Finn2708/AB_Motor_Microfit_Connector) | AB Motor Microfit Connector
-|Hartk|[MicroDOOM CAD](https://github.com/printersforants/Micron/tree/main/Mods/Hartk) | Zipped up CAD for MicroDOOM.
-||[Pin Mod](https://github.com/printersforants/Micron/tree/main/Mods/Hartk/Pin_Mod/) | Pin Mod for Micron.
-||[Spinner](https://github.com/printersforants/Micron/tree/main/Mods/Hartk/Spinner) | Spinner for Micron A/B drives.
-||[LRS-150-Stacked](https://github.com/printersforants/Micron/tree/main/Mods/Hartk/LRS-150-Stacked) | Stacked electronics for LRS-150 PSU and octopus.
-||[bed_wagos](https://github.com/printersforants/Micron/tree/main/Mods/Hartk/bed_wagos) | Bed wagos
-||[plate_holder_panel_clips](https://github.com/printersforants/Micron/tree/main/Mods/Hartk/Panel_Clip_Plate_Holder) | Plate Holder Panel Clips
+|Hartk|[MicroDOOM CAD](https://github.com/printersforants/Micron/tree/main/Mods/hartk1213/MicroDOOM/) | Zipped up CAD for MicroDOOM.
+||[Pin Mod](https://github.com/printersforants/Micron/tree/main/Mods/hartk1213/Pin_Mod/) | Pin Mod for Micron.
+||[Spinner](https://github.com/printersforants/Micron/tree/main/Mods/hartk1213/Spinner) | Spinner for Micron A/B drives.
+||[LRS-150-Stacked](https://github.com/printersforants/Micron/tree/main/Mods/hartk1213/LRS-150-Stacked) | Stacked electronics for LRS-150 PSU and octopus.
+||[bed_wagos](https://github.com/printersforants/Micron/tree/main/Mods/hartk1213/bed_wagos) | Bed wagos
+||[plate_holder_panel_clips](https://github.com/printersforants/Micron/tree/main/Mods/hartk1213/Panel_Clip_Plate_Holder) | Plate Holder Panel Clips
 |L.e.o.p.a.r.d|[Clips](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/Clips) | This mod contains various clips for mounting things onto 1515 and 2020 extrusion.
 ||[EasierZDrives](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/EasierZDrives) |  Alternate Z Drives
 ||[FrenzyCarriage](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/FrenzyCarriage) | Alternate Carriage for Micron and other 1515 MGN9C machines.
