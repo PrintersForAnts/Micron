@@ -32,6 +32,7 @@ like so:
 ||[LRS-150-Stacked](https://github.com/printersforants/Micron/tree/main/Mods/Hartk/LRS-150-Stacked) | Stacked electronics for LRS-150 PSU and octopus.
 ||[bed_wagos](https://github.com/printersforants/Micron/tree/main/Mods/Hartk/bed_wagos) | Bed wagos
 ||[plate_holder_panel_clips](https://github.com/printersforants/Micron/tree/main/Mods/Hartk/Panel_Clip_Plate_Holder) | Plate Holder Panel Clips
+||[Belt Chain](https://github.com/printersforants/Micron/tree/main/Mods/Hartk//belt_chain) | Belt Chain 
 |L.e.o.p.a.r.d|[Clips](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/Clips) | This mod contains various clips for mounting things onto 1515 and 2020 extrusion.
 ||[EasierZDrives](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/EasierZDrives) |  Alternate Z Drives
 ||[FrenzyCarriage](https://github.com/printersforants/Micron/tree/main/Mods/L.e.o.p.a.r.d/FrenzyCarriage) | Alternate Carriage for Micron and other 1515 MGN9C machines.
